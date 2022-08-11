@@ -13,7 +13,7 @@ header {
   background-color: grey;
   display: flex;
   justify-content: space-between;
-  background-image: url(/assets/design1_image1.jpg);
+  background-image: url(../assets/design1_image1.jpg);
   background-position: center;
   background-size: cover;
   background-position-y: -46rem;
@@ -33,7 +33,7 @@ h1 {
 .logo {
   height: 7rem;
   width: 7rem;
-  background-image: url(/assets/logoMightyducks-01.png);
+  background-image: url(../assets/logoMightyducks-01.png);
   background-position: center;
   background-size: cover;
   border-radius: 0.5rem;
